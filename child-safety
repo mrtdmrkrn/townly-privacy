@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Child Safety Standards – Townly</title>
+  <style>
+    body {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      padding: 1em;
+      line-height: 1.5;
+      max-width: 42rem;
+      margin: 0 auto;
+      color: #222;
+    }
+    a { color: #1a73e8; }
+  </style>
+</head>
+<body>
+  <strong>Child Sexual Exploitation and Abuse (CSAE) and CSAM Policy</strong>
+  <p>Last updated: 2026-10-31</p>
+  <p>This policy applies to the Townly app, operated by mert demirkiran (CoolApps). Townly has a zero-tolerance policy for any content or behavior that sexually exploits, harms, or endangers children. Child Sexual Abuse Material (CSAM) and Child Sexual Exploitation and Abuse (CSAE) are strictly prohibited.</p>
+  <p>Townly is not directed at children under 13.</p>
+
+  <br>
+  <strong>1. Zero tolerance</strong>
+  <p>Users may not upload, share, send, request, or solicit CSAM or any content or conduct that sexually exploits a child. This includes grooming, sexual comments directed at a minor, and any attempt to obtain sexual content from a child.</p>
+  <p>Any account that does this will be permanently removed from Townly.</p>
+
+  <br>
+  <strong>2. How to report</strong>
+  <p>If you see content or behavior that may exploit or endanger a child, report it immediately:</p>
+  <ul>
+    <li>On a post, open the post menu and choose <strong>Report post</strong>. Select <strong>Inappropriate content</strong> or <strong>Other</strong>, and describe what you saw.</li>
+    <li>In the app, open <strong>Settings</strong> and choose <strong>Contact Us</strong>.</li>
+    <li>Email the child-safety contact at <a href="mailto:dk.mert95@gmail.com">dk.mert95@gmail.com</a>.</li>
+  </ul>
+  <p>Please include the username, where you saw the content, and the time, if you can. Do not forward CSAM.</p>
+
+  <br>
+  <strong>3. What we do with a report</strong>
+  <p>Reports are reviewed by Townly. When a report involves suspected CSAM or CSAE, Townly will:</p>
+  <ul>
+    <li>remove the content and permanently ban the account;</li>
+    <li>report the incident to the National Center for Missing &amp; Exploited Children (NCMEC) and to the relevant law-enforcement authority;</li>
+    <li>preserve the information those authorities need for an investigation.</li>
+  </ul>
+
+  <br>
+  <strong>4. Contact</strong>
+  <p>Child-safety contact: <a href="mailto:dk.mert95@gmail.com">dk.mert95@gmail.com</a></p>
+</body>
+</html>
